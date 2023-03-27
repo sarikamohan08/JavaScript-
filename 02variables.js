@@ -11,7 +11,10 @@ var PaymentMode;
 
 PaymentMode="UPI";
 
+//age=prompt("enter your age")
+
 console.log(PaymentMode);
+
 console.log(`
 id:${uid}
 name: ${fullName}
