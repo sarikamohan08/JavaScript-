@@ -11,6 +11,7 @@ var User = function (firstName, courseCount) {
   };
   
   var sarika = new User("sarika", 2);
+  
   console.log(sarika);
   sarika.getFirstname();
   sarika.getCourseCount();
